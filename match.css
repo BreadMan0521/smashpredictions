@@ -1,0 +1,102 @@
+
+#background {
+	position:absolute;
+	top:53px;
+	height:100%; 
+	width:100%; 
+	background-color:gray; 
+	border:solid; 
+	border-width:5px; 
+	border-color:#333333;
+	border-top: none;
+}
+
+.player {
+	width:46%; 
+	height:350px; 
+	border:solid; 
+	border-width:5px;  
+	border-radius:10px;
+}
+
+.player1{
+	border-color:darkred;
+	float:left;
+}
+
+.player2{
+	border-color:darkblue;
+	float:right;
+}
+
+#player1_name{
+	color:darkred;
+	text-decoration: underline;
+}
+
+#player2_name{
+	color:darkblue;
+	text-decoration: underline;
+}
+
+.player_win_form {
+	
+}
+
+.input_box {
+	border:solid;
+	border-width:2px;
+	border-color:#333333;
+}
+
+.submit_button {
+	border:solid;
+	border-width:2px;
+	border-color:black;
+	margin-top: 5px;
+}
+
+#versus_box {
+	float:right;
+	width:8%;
+	height:85px;
+	background-color:purple;
+	border:solid;
+	border-width:5px;
+	border-color:black;
+	border-radius:10px;
+}
+
+#versus_letters{
+	color:darkorange;
+	padding:20px;
+	margin-top:0px;
+}
+
+#odds_box {
+	float:right;
+	background-color:yellow;
+	width: 8%;
+	border:solid;
+	border-width:5px;
+	border-radius:10px;
+	border-color:black;
+}
+
+#odds_letters {
+	color:black;
+	text-decoration:underline;
+	margin-top:10px;
+	margin-left:4px;
+}
+
+#odds_numbers {
+	text-align: center;
+	margin-top: 0px;
+	color:black;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+	margin-left:10px;
+	margin-right:10px;
+}

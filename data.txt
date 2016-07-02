@@ -1,0 +1,101 @@
+1	10	Armada	Peach,	Fox					
+2	9.7375	Hungrybox		Jigglypuff					
+3	9.73125	Leffen			Fox				
+4	9.5375	MaNg0	Falco,	Fox					
+5	9.39625	Mew2King				Sheik,	Marth	Fox	
+6	9.3285	PPMD		Falco,	Marth				
+7	9.0425	Plup		Sheik	Samus				
+8	8.9675	Westballz		Falco	Fox,			
+9	8.93375	Axe		Pikachu	Falco,			
+10	8.81875	Shroomed	Sheik	Marth					
+11	8.66125	Silent		Fox					
+12	8.595	Lucky	Fox	Captain	Falcon				
+13	8.51875	SFAT			Fox				
+14	8.38375	PewPewU			Marth	Fox			
+15	8.27325	MacD	Peach						
+16	8.26375	S2J				Captain	Falcon	Falco	
+17	8.24625	Ice	Fox	Sheik					
+18	8.184615	Druggedfox			Sheik	Falco			
+19	7.99375	Hax$	Fox						
+20	7.84875	Hugs	Samus						
+21	7.83375	Colbol		Fox	Marth				
+22	7.796923	Duck	Samus						
+23	7.732051	Wizzrobe		Captain	Falcon				
+24	7.679167	aMSa	Yoshi	Falco					
+25	7.6675	Nintendude	Ice	Climbers	Peach				
+26	7.618421	Javi		Fox					
+27	7.582051	KirbyKaze	Sheik						
+28	7.4975	The			Marth				
+29	7.4475	Zhu	Falco						
+30	7.416667	Fly		Ice	Climbers				
+31	7.302564	Swedish			Sheik	Peach			
+32	7.293243	Wobbles					Ice	Climbers	Mario
+33	7.275641	Abate	Luigi						
+34	7.2075	Professor			Fox				
+35	7.003947	ChuDat		Ice	Climbers				
+36	6.839744	Eddy		Luigi					
+37	6.83625	Cactuar	Marth	Fox					
+38	6.761842	Fiction	Marth	Fox					
+39	6.75875	Bladewise		Peach					
+40	6.448718	MikeHaze			Fox	Marth			
+41	6.44625	DJ		Fox	Pikachu				
+42	6.434375	Santiago	Fox						
+43	6.425714	Tekk		Jigglypuff					
+44	6.420513	Kage			Ganondorf	Captain	Falcon		
+45	6.24025	Gahtzu	Captain	Falcon					
+46	6.23375	KJH	Fox						
+47	6.223611	OverTriforce	Sheik						
+48	6.197368	Android	Sheik						
+49	6.177632	Frootloop	Falco						
+50	6.175	Kels	Fox	Sheik					
+51	6.14	Ryan		Fox					
+52	6.133333	Ken		Marth					
+53	6.111765	Amsah	Sheik						
+54	6.0525	ChillinDude		Fox	Falco				
+55	6.0225	Prince		Jigglypuff					
+56	5.9875	Darkatma	Sheik	Peach					
+57	5.97	Kalamazhu	Peach	Marth					
+58	5.956944	n0ne			Captain	Falcon	Ganondorf		
+59	5.929167	Laudandus	Sheik						
+60	5.914865	Kira	Sheik	Fox					
+61	5.830769	Darkrain	Captain	Falcon					
+62	5.813158	Gravy	Captain	Falcon					
+62.5	5.807	Twitch	Fox						
+63	5.801282	Blea				Luigi			
+64	5.780263	homemadewaffles	Fox,	Falco					
+65	5.748529	Dart!	Marth						
+66	5.739677	Jeapie			Captain	Falcon			
+67	5.72625	Alex19	Fox						
+68	5.613419	Zanguzen	Falco						
+69	5.5875	Slox	Fox	Falcon					
+70	5.501667	Redd	Fox	Falco					
+71	5.428125	Zoso	Marth						
+72	5.42	Connor	Fox	Peach					
+73	5.395652	Zgetto	Fox						
+74	5.380769	Reno	Sheik	Fox					
+75	5.327083	Matt	Fox	Falco					
+76	5.263158	Ralph	Falco						
+77	5.229412	Reaper		Marth					
+78	5.2	lloD	Peach						
+79	5.189474	SUNG475		Marth					
+80	5.153846	Tafokints				Sheik			
+81	5.127778	ESAM		Samus	Fox				
+82	5.124286	S0ft		Jigglypuff					
+83	5.095588	Darrell	Samus						
+84	5.086486	DizzKidBoogie	Ice	Climbers					
+85	5.08	$mike	Captain	Falcon					
+86	5.047059	Swiftbass	Marth						
+87	5.027778	Arc		Marth					
+88	5.019231	Rudolph	Marth	Fox,	Shiek				
+89	5.007407	Azusa	Peach						
+90	4.976471	Tai	Marth						
+91	4.906	Mafia			Peach	Captain	Falcon		
+92	4.862222	Phil	Fox						
+93	4.858065	Porkchops		Falco	Fox				
+94	4.84	IB	Marth						
+95	4.829688	OkamiBW	Sheik						
+96	4.795652	Crush	Fox						
+97	4.793421	Toph				Fox			
+98	4.776923	Bizzarro			Ganondorf				
+99	4.77	Captain		Captain	Falcon				
+100	4.753704	DoH	Peach						

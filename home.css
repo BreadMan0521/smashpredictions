@@ -1,0 +1,486 @@
+
+#background {
+	background-color:gray;
+}
+
+#logo {
+	color:red;
+}
+
+.matchlink {
+	color:inherit;
+	text-decoration:none;
+}
+
+#current_match {
+	background-color:lightgreen;
+	position:relative;
+	overflow:hidden;
+	width:100%;
+	height:20vw;
+	border:solid; 
+	border-width:2px;
+	border-color:black;
+}
+
+#current_match_border {
+	border:solid; 
+	border-width:2px;
+	border-color:black;
+}
+
+#current_match_title {
+	font-family:"Arial";
+	font-size:3vw;
+	font-weight:bold;
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+	width:100%;
+}
+
+.current_match_player{
+	margin-top:1vw;
+	width:40%;
+	height:50%;
+	border:transparent;
+	border-width:1px;
+}
+
+.current_match_player_name{
+	font-family:"Impact", Charcoal, sans-serif;
+	font-size: 3vw;
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+}
+
+.current_match_player_input {
+	border:transparent;
+	border-color:yellow;
+	border-width:1px;
+}
+
+.current_match_input_box{
+	margin-top:1vw;
+	width:50%;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+}
+
+.current_match_submit_button{
+	margin-top:2%;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+}
+
+#current_match_player1 {
+	float:left;
+	border-color:red;
+}
+
+#current_match_player1_name {
+
+}
+
+#current_match_player1_mains {
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+}
+
+#current_match_player1_input {
+}
+
+#current_match_player2 {
+	float:right;
+	border-color:blue;
+}
+
+#current_match_player2_name {
+	
+}
+
+#current_match_player2_mains {
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+}
+
+#current_match_player2_input{
+	
+}
+
+#current_match_odds{
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+	position:absolute;
+	bottom:40%;
+	width:100%;
+	font-size:4vw;
+}
+
+#current_match_more_options{
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+	width:100%;
+	position:absolute;
+	bottom:0;
+}
+
+
+
+
+
+
+#upcoming_matches_title{
+	font-size:3vw;
+}
+
+.upcoming_match{
+	width:45%;
+	
+	margin:2.5%;
+	float:left;
+	border:solid;
+	border-color:black;
+	border-width:3px;
+	background-color:lightgreen;
+	position:relative;
+	overflow: hidden;
+}
+
+.upcoming_match_player{
+	border:solid;
+	border-color:transparent;
+	border-width:1px;
+	font-size:3vw;
+}
+
+.upcoming_match_player_name{
+	
+}
+
+.upcoming_match_odds{
+	font-size:2vw;
+}
+
+.upcoming_match_more_options{
+	
+}
+
+#current_match_hidden {
+	background:lightgreen;
+	margin-top: 5px;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+}
+.hidden_player {
+	width:50%;
+	float:left;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+}
+
+.thirty {
+	border:solid;
+	border-color:black;
+	border-width:1px;
+	overflow:hidden;
+}
+
+.wins_3-0 {
+	border:solid;
+	border-color:transparent;
+	border-width:1px;
+	float:left;
+	width:75%;
+	margin-top:2%;
+	font-weight:bold;
+}
+
+.poopage {
+	border:solid;
+	border-color:black;
+	border-width:1px;
+	overflow:hidden;
+}
+
+.fourstocks {
+	border:solid;
+	border-color:transparent;
+	border-width:1px;
+	float:left;
+	width:75%;
+	margin-top:2%;
+	font-weight:bold;
+
+}
+
+.hidden_player1 {}
+.hidden_player2 {}
+.hidden_odds {}
+.hidden_player_3-0_odds {
+	border:solid;
+	border-color:red;
+	border-width:1px;
+	position:relative;
+	height:0px;
+	top:-50px;
+	left:33%;
+	width:25%;
+	font-size:3vw;
+}
+
+.hidden_input_box {
+	width:25%;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+	float:left;
+	margin-top:5px;
+	margin-left:14%;
+	margin-bottom: 5%;
+}
+
+.hidden_match_submit_button{
+	border:solid;
+	border-color:black;
+	border-width:1px;
+	float:left;
+	margin-top:5px;
+	margin-left:5px;
+}
+.hidden_player_4stock_odds {
+	border:solid;
+	border-color:red;
+	border-width:1px;
+	position:relative;
+	height:0px;
+	top:-60px;
+	left:31%;
+	width:25%;
+	font-size:3vw;
+}
+
+.hidden_special_feed{}
+.hidden_special {
+	border:solid;
+	border-color:black;
+	border-width:2px;
+	overflow:hidden;
+}
+.hidden_special_title {
+	font-size:2vw;
+	border-left:solid;
+	border-right:solid;
+	border-width:2px;
+	border-color:black;
+}
+.hidden_extra {
+	border:solid;
+	border-color:transparent;
+	border-width:1px;
+	margin-top:2%;
+	width:80%;
+	float:left;
+	font-weight:bold;
+}
+.hidden_special_game5_odds {
+	margin-top:2%;
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+	width:20%;
+	float:right;
+	font-size: 3vw;
+}
+
+.hidden_input_box_special {
+	border:solid;
+	border-color:black;
+	border-width:1px;
+	float:left;
+	width:12.5%;
+	margin-left:26.5%;
+	margin-bottom:2%;
+	margin-top:2%;
+}
+
+.hidden_match_submit_button_special {
+	border:solid;
+	border-color:black;
+	border-width:1px;
+	float:left;
+	margin-left:2%;
+	margin-bottom:2%;
+	margin-top:2%;
+}
+
+#match_list {
+	
+}
+
+#mainfeed {
+	float:left;
+	width:50%;
+	/*background:#999999;*/
+	border:transparent;
+	border-color:black;
+	border-width:5px;
+	border-radius:5px;
+}
+
+#current_match {
+	border-color:black;
+	border-width:1px;
+}
+
+.fighter {
+	width:35%;
+	margin:10px;
+	border: solid;
+	border-width:1px;
+	border-color:#00F;
+}
+
+.f_right {
+	float:right; 
+}
+
+.f_left {
+	float:left; 
+}
+
+
+
+.menu_upcoming_match {
+	background-color:lightgreen;
+	position:relative;
+	overflow:hidden;
+	width:100%;
+	height:20vw;
+	border:solid; 
+	border-width:3px;
+	border-color:black;
+}
+.menu_upcoming_match_border {
+	border:solid;
+	border-width:3px;
+	border-color:black;
+}
+.upcoming_match_border {
+	border:solid; 
+	border-width:3px;
+	border-color:red;
+}
+
+.upcoming_match_title {
+	font-family:"Arial";
+	font-size:3vw;
+	font-weight:bold;
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+	width:100%;
+}
+
+.h_upcoming_match_player{
+	margin-top:1vw;
+	width:40%;
+	height:50%;
+	border:transparent;
+	border-width:1px;
+}
+
+.h_upcoming_match_player_name{
+	font-family:"Impact", Charcoal, sans-serif;
+	font-size: 3vw;
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+}
+
+.upcoming_match_player_input {
+	border:transparent;
+	border-color:yellow;
+	border-width:1px;
+}
+
+.upcoming_match_input_box{
+	margin-top:1vw;
+	width:50%;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+}
+
+.upcoming_match_submit_button{
+	margin-top:2%;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+}
+
+.h_upcoming_match_player1 {
+	float:left;
+	border-color:red;
+}
+
+.upcoming_match_player1_mains {
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+}
+
+.upcoming_match_player1_input {
+}
+
+.h_upcoming_match_player2 {
+	float:right;
+	border-color:blue;
+}
+
+
+.upcoming_match_player2_mains {
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+}
+
+.upcoming_match_player2_input{
+	
+}
+
+.hidden_upcoming_match_odds{
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+	position:absolute;
+	bottom:40%;
+	width:100%;
+	font-size:4vw;
+}
+
+.h_upcoming_match_more_options{
+	border:transparent;
+	border-color:black;
+	border-width:1px;
+	width:100%;
+	position:absolute;
+	bottom:0;
+}
+
+.upcoming_match_hidden {
+	background:lightgreen;
+	margin-top: 5px;
+	border:solid;
+	border-color:black;
+	border-width:1px;
+}
